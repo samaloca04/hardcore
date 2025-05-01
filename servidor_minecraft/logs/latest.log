@@ -166,3 +166,14 @@
 [21:50:56] [Server thread/INFO]: Criss_17 joined the game
 [21:52:15] [Server thread/INFO]: Criss_17 lost connection: Disconnected
 [21:52:15] [Server thread/INFO]: Criss_17 left the game
+[22:01:03] [Server thread/INFO]: Stopping the server
+[22:01:03] [Server thread/INFO]: Stopping server
+[22:01:03] [Server thread/INFO]: Saving players
+[22:01:03] [Server thread/INFO]: Saving worlds
+[22:01:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:01:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22:01:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22:01:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:01:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:01:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:01:03] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
