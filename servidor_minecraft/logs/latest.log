@@ -167,3 +167,14 @@
 [18:18:31] [Server thread/INFO]: Criss_17[/127.31.87.139:46483] logged in with entity id 9 at (390.4683648127834, 75.0, -1499.699999988079)
 [18:18:31] [Server thread/INFO]: Criss_17 joined the game
 [18:24:20] [Server thread/INFO]: Criss_17 has made the advancement [What a Deal!]
+[18:34:38] [Server thread/INFO]: Stopping the server
+[18:34:38] [Server thread/INFO]: Stopping server
+[18:34:38] [Server thread/INFO]: Saving players
+[18:34:38] [Server thread/INFO]: Saving worlds
+[18:34:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18:34:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18:34:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18:34:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:34:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:34:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:34:38] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
