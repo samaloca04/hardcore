@@ -213,3 +213,16 @@
 [03:16:07] [Server thread/WARN]: Oak Boat (vehicle of Criss_17) moved wrongly! 0.9520607605278713
 [03:16:07] [Server thread/WARN]: Oak Boat (vehicle of Criss_17) moved wrongly! 1.0
 [03:28:34] [Server thread/INFO]: Criss_17 has made the advancement [Best Friends Forever]
+[03:48:27] [Server thread/INFO]: Stopping the server
+[03:48:27] [Server thread/INFO]: Stopping server
+[03:48:27] [Server thread/INFO]: Saving players
+[03:48:27] [Server thread/INFO]: Criss_17 lost connection: Server closed
+[03:48:27] [Server thread/INFO]: Criss_17 left the game
+[03:48:27] [Server thread/INFO]: Saving worlds
+[03:48:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:48:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03:48:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03:48:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:48:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:48:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:48:28] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
