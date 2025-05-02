@@ -203,3 +203,7 @@
 [02:47:38] [Server thread/INFO]: ... spectador criss_17 <--[HERE]
 [02:47:57] [Server thread/INFO]: Incorrect argument for command
 [02:47:57] [Server thread/INFO]: ...r criss_17 <--[HERE]
+[02:57:12] [Server thread/INFO]: Can't find element 'minecraft:minecraft' of type 'minecraft:mob_effect'
+[02:57:12] [Server thread/INFO]: ... minecraft <--[HERE]
+[02:57:36] [Server thread/INFO]: Applied effect Night Vision to Criss_17
+[03:04:50] [Server thread/INFO]: Criss_17 has made the advancement [Ice Bucket Challenge]
