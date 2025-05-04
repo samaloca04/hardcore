@@ -281,6 +281,7 @@
       "minecraft:blaze": "2025-05-03 00:07:08 +0000",
       "minecraft:skeleton": "2025-05-02 01:51:43 +0000",
       "minecraft:zombified_piglin": "2025-05-03 01:11:26 +0000",
+      "minecraft:witch": "2025-05-04 04:51:30 +0000",
       "minecraft:wither_skeleton": "2025-05-03 00:04:46 +0000",
       "minecraft:husk": "2025-05-02 02:35:23 +0000",
       "minecraft:bogged": "2025-05-02 02:28:15 +0000",
@@ -3204,6 +3205,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-04 04:51:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2025-05-04 00:42:42 +0000"
@@ -3237,6 +3244,12 @@
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2025-05-04 00:42:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-04 04:51:33 +0000"
     },
     "done": true
   },
