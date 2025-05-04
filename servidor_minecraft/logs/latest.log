@@ -220,3 +220,5 @@
 [03:10:19] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=501, y=62, z=-1468} class_2338{x=501, y=64, z=-1468}
 [03:41:49] [Server thread/INFO]: Villager class_1646['Villager'/34198, l='ServerLevel[world]', x=419.37, y=76.38, z=-1488.92] died, message: 'Villager suffocated in a wall'
 [03:43:36] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=425, y=77, z=-1488} class_2338{x=426, y=76, z=-1488}
+[03:50:51] [Server thread/INFO]: Villager class_1646['Fletcher'/34192, l='ServerLevel[world]', x=423.91, y=76.19, z=-1480.66] died, message: 'Fletcher was slain by Zombie'
+[03:50:57] [Server thread/INFO]: Villager class_1646['Fletcher'/34197, l='ServerLevel[world]', x=423.11, y=76.19, z=-1480.70] died, message: 'Fletcher was slain by Zombie'
