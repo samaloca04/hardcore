@@ -218,3 +218,5 @@
 [03:09:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=518, y=61, z=-1443} class_2338{x=519, y=60, z=-1443}
 [03:10:19] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=501, y=62, z=-1468} class_2338{x=502, y=62, z=-1468}
 [03:10:19] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=501, y=62, z=-1468} class_2338{x=501, y=64, z=-1468}
+[03:41:49] [Server thread/INFO]: Villager class_1646['Villager'/34198, l='ServerLevel[world]', x=419.37, y=76.38, z=-1488.92] died, message: 'Villager suffocated in a wall'
+[03:43:36] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=425, y=77, z=-1488} class_2338{x=426, y=76, z=-1488}
