@@ -203,3 +203,7 @@
 [00:39:34] [Server thread/INFO]: [Criss_17: Gave 3000 experience points to Criss_17]
 [00:39:35] [Server thread/INFO]: [Criss_17: Gave 3000 experience points to Criss_17]
 [00:39:35] [Server thread/INFO]: [Criss_17: Gave 3000 experience points to Criss_17]
+[00:52:23] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=471, y=80, z=-1457} class_2338{x=473, y=81, z=-1445}
+[01:02:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=469, y=80, z=-1453} class_2338{x=484, y=80, z=-1458}
+[01:05:35] [Server thread/INFO]: [Criss_17: Set own game mode to Creative Mode]
+[01:06:12] [Server thread/INFO]: [Criss_17: Set own game mode to Survival Mode]
