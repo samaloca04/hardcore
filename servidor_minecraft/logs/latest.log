@@ -1,15 +1,15 @@
-[22:50:42] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.14
-[22:50:42] [ForkJoinPool-1-worker-2/WARN]: The mod "tcdcommons" contains invalid entries in its mod json:
+[00:01:59] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.14
+[00:01:59] [ForkJoinPool-1-worker-2/WARN]: The mod "tcdcommons" contains invalid entries in its mod json:
 - Unsupported root entry "" at line 27 column 4
 - Unsupported root entry "" at line 27 column 198
 - Unsupported root entry "" at line 29 column 4
 - Unsupported root entry "" at line 29 column 24
-[22:50:42] [ForkJoinPool-1-worker-2/WARN]: The mod "betterstats" contains invalid entries in its mod json:
+[00:01:59] [ForkJoinPool-1-worker-1/WARN]: The mod "betterstats" contains invalid entries in its mod json:
 - Unsupported root entry "" at line 26 column 4
 - Unsupported root entry "" at line 26 column 124
 - Unsupported root entry "" at line 28 column 4
 - Unsupported root entry "" at line 28 column 24
-[22:50:42] [main/INFO]: Loading 93 mods:
+[00:01:59] [main/INFO]: Loading 93 mods:
 	- alternate-current 1.9.0
 	- betterfpsdist 1.21-5.1
 	- betterstats 3.13.9+fabric-1.21
@@ -115,86 +115,80 @@
 	   |-- com_twelvemonkeys_imageio_imageio-webp 3.12.0
 	   |-- org_quiltmc_parsers_gson 0.2.1
 	   \-- org_quiltmc_parsers_json 0.2.1
-[22:50:42] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/hardcore/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[22:50:42] [main/INFO]: Compatibility level set to JAVA_16
-[22:50:42] [main/INFO]: Compatibility level set to JAVA_21
-[22:50:43] [main/WARN]: Mod 'ferritecore' attempted to override option 'mixin.alloc.blockstate', which doesn't exist, ignoring
-[22:50:43] [main/INFO]: Option 'mixin.entity.collisions.fluid' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.entity.collisions.fluid=false'.
-[22:50:43] [main/INFO]: Option 'mixin.experimental.entity.block_caching.block_support' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.block_support=false'.
-[22:50:43] [main/INFO]: Option 'mixin.experimental.entity.block_caching.fluid_pushing' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.fluid_pushing=false'.
-[22:50:43] [main/INFO]: Option 'mixin.experimental.entity.block_caching.block_touching' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.block_touching=false'.
-[22:50:43] [main/INFO]: Option 'mixin.experimental.entity.block_caching.suffocation' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.suffocation=false'.
-[22:50:43] [main/INFO]: Option 'mixin.experimental.entity.block_caching' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching=false'.
-[22:50:43] [main/INFO]: Loaded configuration file for Lithium: 149 options available, 0 override(s) found
-[22:50:43] [main/INFO]: Loaded configuration file for ModernFix 5.21.0+mc1.21.1: 58 options available, 0 override(s) found
-[22:50:43] [main/INFO]: Applying Nashorn fix
-[22:50:43] [main/WARN]: Error loading class: net/minecraft/class_287 (java.lang.ClassNotFoundException: net/minecraft/class_287)
-[22:50:43] [main/WARN]: @Mixin target net.minecraft.class_287 was not found owo.mixins.json:BufferBuilderAccessor from mod owo
-[22:50:43] [main/WARN]: Error loading class: net/minecraft/class_437 (java.lang.ClassNotFoundException: net/minecraft/class_437)
-[22:50:43] [main/WARN]: @Mixin target net.minecraft.class_437 was not found owo.mixins.json:ScreenAccessor from mod owo
-[22:50:43] [main/WARN]: Error loading class: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage (java.lang.ClassNotFoundException: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage)
-[22:50:43] [main/WARN]: Error loading class: net/minecraft/class_2539$class_4532 (java.lang.ClassNotFoundException: net/minecraft/class_2539$class_4532)
-[22:50:43] [main/WARN]: @Mixin target net/minecraft/class_2539$class_4532 was not found raknetify-fabric.mixins.json:access.INetworkStateInternalPacketHandler from mod raknetify
-[22:50:43] [main/WARN]: Error loading class: org/quiltmc/qsl/networking/impl/server/ServerLoginNetworkAddon (java.lang.ClassNotFoundException: org/quiltmc/qsl/networking/impl/server/ServerLoginNetworkAddon)
-[22:50:43] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[22:50:47] [main/WARN]: Method overwrite conflict for method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix, previously written by net.caffeinemc.mods.lithium.mixin.world.temperature_cache.BiomeMixin. Skipping method.
-[22:50:50] [main/INFO]: Vanilla bootstrap took 5880 milliseconds
-[22:50:50] [main/INFO]: betterfpsdist mod initialized
-[22:50:50] [main/INFO]: Connectivity initialized
-[22:50:50] [main/INFO]: Loaded config for: cupboard.json
-[22:50:51] [main/INFO]: Compression will use libdeflate (Linux x86_64), encryption will use OpenSSL 1.1.x (Linux x86_64)
-[22:50:51] [main/INFO]: Unobtainium is usually found underground
-[22:50:51] [main/WARN]: @Redirect conflict. Skipping connectivity.mixins.json:ConnectionMixin from mod connectivity->@Redirect::onWait(Lio/netty/channel/ChannelFuture;)Lio/netty/channel/ChannelFuture; with priority 1000, already redirected by raknetify-fabric.mixins.json:common.MixinClientConnection from mod raknetify->@Redirect::noDisconnectWait(Lio/netty/channel/ChannelFuture;)Lio/netty/channel/ChannelFuture; with priority 1010
-[22:50:51] [main/INFO]: [STDOUT]: Raknetify: Using leak detector level SIMPLE
-[22:50:52] [main/INFO]: Initializing 'Better Statistics Screen' as 'BetterStatsServer'.
-[22:50:52] [main/INFO]: Krypton is now accelerating your Minecraft server's networking stack 🚀
-[22:50:52] [main/INFO]: Initializing 'TCD Commons API' 3.12.7+fabric-1.21 as 'TCDCommonsServer'.
-[22:50:52] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[22:50:52] [main/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
-[22:50:52] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[22:50:54] [main/INFO]: Loaded 1290 recipes
-[22:50:54] [main/INFO]: Loaded 1399 advancements
-[22:50:54] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 1.113 ms
-[22:50:54] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[22:50:54] [Server thread/INFO]: Loading properties
-[22:50:54] [Server thread/INFO]: Default game type: SURVIVAL
-[22:50:54] [Server thread/INFO]: Generating keypair
-[22:50:54] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:50:54] [Server thread/INFO]: [STDOUT]: Starting raknetify server on /172.17.0.1
-[22:50:54] [Server thread/INFO]: Using epoll channel type
-[22:50:54] [Server thread/INFO]: [STDOUT]: Starting raknetify server on /fe80:0:0:0:6245:bdff:fe81:7e47%eth0
-[22:50:54] [Server thread/INFO]: Using epoll channel type
-[22:50:54] [Server thread/INFO]: [STDOUT]: Starting raknetify server on /10.0.1.76
-[22:50:54] [Server thread/INFO]: Using epoll channel type
-[22:50:54] [Server thread/INFO]: [STDOUT]: Starting raknetify server on /0:0:0:0:0:0:0:1%lo
-[22:50:54] [Server thread/INFO]: Using epoll channel type
-[22:50:54] [Server thread/INFO]: [STDOUT]: Starting raknetify server on /127.0.0.1
-[22:50:54] [Server thread/INFO]: Using epoll channel type
-[22:50:54] [Server thread/INFO]: Using epoll channel type
-[22:50:54] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[22:50:54] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[22:50:54] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[22:50:54] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[22:50:54] [Server thread/INFO]: Preparing level "world"
-[22:50:55] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:50:55] [Server thread/WARN]: Method overwrite conflict for removeIf in modernfix-common.mixins.json:bugfix.paper_chunk_patches.SortedArraySetMixin from mod modernfix, previously written by net.caffeinemc.mods.lithium.mixin.collections.chunk_tickets.SortedArraySetMixin. Skipping method.
-[22:50:55] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:50:55] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:50:56] [Server thread/INFO]: Time elapsed: 688 ms
-[22:50:56] [Server thread/INFO]: Done (1.107s)! For help, type "help"
-[22:50:56] [Server thread/WARN]: Dedicated server took 14.719 seconds to load
-[22:50:56] [Server thread/INFO]: Loaded config for: connectivity.json
-[22:50:56] [Server thread/INFO]: Loaded config for: betterfpsdist.json
-[22:50:56] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[22:50:56] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
-[22:51:00] [Server thread/INFO]: Stopping the server
-[22:51:00] [Server thread/INFO]: Stopping server
-[22:51:00] [Server thread/INFO]: Saving players
-[22:51:00] [Server thread/INFO]: Saving worlds
-[22:51:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[22:51:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[22:51:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[22:51:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:51:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:51:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:51:00] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:02:00] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/hardcore/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[00:02:00] [main/INFO]: Compatibility level set to JAVA_16
+[00:02:00] [main/INFO]: Compatibility level set to JAVA_21
+[00:02:01] [main/WARN]: Mod 'ferritecore' attempted to override option 'mixin.alloc.blockstate', which doesn't exist, ignoring
+[00:02:01] [main/INFO]: Option 'mixin.entity.collisions.fluid' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.entity.collisions.fluid=false'.
+[00:02:01] [main/INFO]: Option 'mixin.experimental.entity.block_caching.block_support' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.block_support=false'.
+[00:02:01] [main/INFO]: Option 'mixin.experimental.entity.block_caching.fluid_pushing' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.fluid_pushing=false'.
+[00:02:01] [main/INFO]: Option 'mixin.experimental.entity.block_caching.block_touching' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.block_touching=false'.
+[00:02:01] [main/INFO]: Option 'mixin.experimental.entity.block_caching.suffocation' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.suffocation=false'.
+[00:02:01] [main/INFO]: Option 'mixin.experimental.entity.block_caching' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching=false'.
+[00:02:01] [main/INFO]: Loaded configuration file for Lithium: 149 options available, 0 override(s) found
+[00:02:01] [main/INFO]: Loaded configuration file for ModernFix 5.21.0+mc1.21.1: 58 options available, 0 override(s) found
+[00:02:01] [main/INFO]: Applying Nashorn fix
+[00:02:02] [main/WARN]: Error loading class: net/minecraft/class_287 (java.lang.ClassNotFoundException: net/minecraft/class_287)
+[00:02:02] [main/WARN]: @Mixin target net.minecraft.class_287 was not found owo.mixins.json:BufferBuilderAccessor from mod owo
+[00:02:02] [main/WARN]: Error loading class: net/minecraft/class_437 (java.lang.ClassNotFoundException: net/minecraft/class_437)
+[00:02:02] [main/WARN]: @Mixin target net.minecraft.class_437 was not found owo.mixins.json:ScreenAccessor from mod owo
+[00:02:03] [main/WARN]: Error loading class: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage (java.lang.ClassNotFoundException: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage)
+[00:02:03] [main/WARN]: Error loading class: net/minecraft/class_2539$class_4532 (java.lang.ClassNotFoundException: net/minecraft/class_2539$class_4532)
+[00:02:03] [main/WARN]: @Mixin target net/minecraft/class_2539$class_4532 was not found raknetify-fabric.mixins.json:access.INetworkStateInternalPacketHandler from mod raknetify
+[00:02:03] [main/WARN]: Error loading class: org/quiltmc/qsl/networking/impl/server/ServerLoginNetworkAddon (java.lang.ClassNotFoundException: org/quiltmc/qsl/networking/impl/server/ServerLoginNetworkAddon)
+[00:02:03] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[00:02:07] [main/WARN]: Method overwrite conflict for method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix, previously written by net.caffeinemc.mods.lithium.mixin.world.temperature_cache.BiomeMixin. Skipping method.
+[00:02:10] [main/INFO]: Vanilla bootstrap took 5729 milliseconds
+[00:02:10] [main/INFO]: betterfpsdist mod initialized
+[00:02:10] [main/INFO]: Connectivity initialized
+[00:02:10] [main/INFO]: Loaded config for: cupboard.json
+[00:02:11] [main/INFO]: Compression will use libdeflate (Linux x86_64), encryption will use OpenSSL 1.1.x (Linux x86_64)
+[00:02:11] [main/INFO]: My Seethenhagen factory makes 331 pounds of licorice per hour
+[00:02:12] [main/WARN]: @Redirect conflict. Skipping connectivity.mixins.json:ConnectionMixin from mod connectivity->@Redirect::onWait(Lio/netty/channel/ChannelFuture;)Lio/netty/channel/ChannelFuture; with priority 1000, already redirected by raknetify-fabric.mixins.json:common.MixinClientConnection from mod raknetify->@Redirect::noDisconnectWait(Lio/netty/channel/ChannelFuture;)Lio/netty/channel/ChannelFuture; with priority 1010
+[00:02:12] [main/INFO]: [STDOUT]: Raknetify: Using leak detector level SIMPLE
+[00:02:12] [main/INFO]: Initializing 'Better Statistics Screen' as 'BetterStatsServer'.
+[00:02:12] [main/INFO]: Krypton is now accelerating your Minecraft server's networking stack 🚀
+[00:02:12] [main/INFO]: Initializing 'TCD Commons API' 3.12.7+fabric-1.21 as 'TCDCommonsServer'.
+[00:02:12] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[00:02:13] [main/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
+[00:02:13] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:02:16] [main/INFO]: Loaded 1290 recipes
+[00:02:16] [main/INFO]: Loaded 1399 advancements
+[00:02:16] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 1.758 ms
+[00:02:16] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[00:02:16] [Server thread/INFO]: Loading properties
+[00:02:16] [Server thread/INFO]: Default game type: SURVIVAL
+[00:02:16] [Server thread/INFO]: Generating keypair
+[00:02:16] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:02:16] [Server thread/INFO]: [STDOUT]: Starting raknetify server on /172.17.0.1
+[00:02:16] [Server thread/INFO]: Using epoll channel type
+[00:02:17] [Server thread/INFO]: [STDOUT]: Starting raknetify server on /fe80:0:0:0:7e1e:52ff:feb8:89af%eth0
+[00:02:17] [Server thread/INFO]: Using epoll channel type
+[00:02:17] [Server thread/INFO]: [STDOUT]: Starting raknetify server on /10.0.0.251
+[00:02:17] [Server thread/INFO]: Using epoll channel type
+[00:02:17] [Server thread/INFO]: [STDOUT]: Starting raknetify server on /0:0:0:0:0:0:0:1%lo
+[00:02:17] [Server thread/INFO]: Using epoll channel type
+[00:02:17] [Server thread/INFO]: [STDOUT]: Starting raknetify server on /127.0.0.1
+[00:02:17] [Server thread/INFO]: Using epoll channel type
+[00:02:17] [Server thread/INFO]: Using epoll channel type
+[00:02:17] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:02:17] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:02:17] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:02:17] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:02:17] [Server thread/INFO]: Preparing level "world"
+[00:02:18] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:02:18] [Server thread/WARN]: Method overwrite conflict for removeIf in modernfix-common.mixins.json:bugfix.paper_chunk_patches.SortedArraySetMixin from mod modernfix, previously written by net.caffeinemc.mods.lithium.mixin.collections.chunk_tickets.SortedArraySetMixin. Skipping method.
+[00:02:18] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:02:18] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:02:19] [Worker-Main-3/INFO]: Preparing spawn area: 42%
+[00:02:19] [Server thread/INFO]: Time elapsed: 1183 ms
+[00:02:19] [Server thread/INFO]: Done (2.090s)! For help, type "help"
+[00:02:19] [Server thread/WARN]: Dedicated server took 22.577 seconds to load
+[00:02:19] [Server thread/INFO]: Loaded config for: connectivity.json
+[00:02:19] [Server thread/INFO]: Loaded config for: betterfpsdist.json
+[00:02:19] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[00:02:19] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
+[00:02:56] [Netty Epoll Server IO #2/WARN]: @Redirect conflict. Skipping raknetify-fabric.mixins.json:server.MixinServerLoginNetworkHandler from mod raknetify->@Redirect::stopCompressionIfStreamingCompressionExists(Lnet/minecraft/server/MinecraftServer;)I with priority 900, already redirected by fabric-networking-api-v1.mixins.json:ServerLoginNetworkHandlerMixin from mod fabric-networking-api-v1->@Redirect::removeLateCompressionPacketSending(Lnet/minecraft/server/MinecraftServer;)I with priority 1000
+[00:02:58] [Server thread/INFO]: [STDOUT]: Lithium Cached BlockState Flags are disabled!
+[00:02:58] [Server thread/INFO]: Criss_17[/127.31.87.139:45601] logged in with entity id 9 at (395.3871449296447, 75.0, -1508.4361818755528)
+[00:02:58] [Server thread/INFO]: Criss_17 joined the game
