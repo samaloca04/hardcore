@@ -232,3 +232,20 @@
 [04:54:44] [Server thread/INFO]: [Criss_17: Applied effect Night Vision to Criss_17]
 [05:11:27] [Server thread/INFO]: [Criss_17: Applied effect Night Vision to Criss_17]
 [05:34:30] [Server thread/INFO]: Criss_17 has made the advancement [Hot Stuff]
+[05:36:32] [Server thread/INFO]: [Criss_17: Applied effect Night Vision to Criss_17]
+[05:36:51] [Server thread/INFO]: [Criss_17: Set own game mode to Spectator Mode]
+[05:37:23] [Server thread/INFO]: [Criss_17: Set own game mode to Survival Mode]
+[05:39:12] [Server thread/WARN]: Criss_17 moved wrongly!
+[05:41:40] [Server thread/INFO]: [Criss_17: Stopping the server]
+[05:41:40] [Server thread/INFO]: Stopping server
+[05:41:40] [Server thread/INFO]: Saving players
+[05:41:40] [Server thread/INFO]: Criss_17 lost connection: Server closed
+[05:41:40] [Server thread/INFO]: Criss_17 left the game
+[05:41:40] [Server thread/INFO]: Saving worlds
+[05:41:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05:41:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05:41:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05:41:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:41:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:41:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:41:41] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
