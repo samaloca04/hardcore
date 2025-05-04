@@ -211,3 +211,10 @@
 [02:15:09] [Server thread/INFO]: [Criss_17: Set own game mode to Survival Mode]
 [02:32:18] [Server thread/INFO]: [Criss_17: Set own game mode to Spectator Mode]
 [02:32:27] [Server thread/INFO]: [Criss_17: Set own game mode to Survival Mode]
+[03:09:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=521, y=62, z=-1442} class_2338{x=522, y=63, z=-1447}
+[03:09:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=521, y=62, z=-1442} class_2338{x=522, y=62, z=-1447}
+[03:09:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=518, y=61, z=-1443} class_2338{x=519, y=60, z=-1443}
+[03:09:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=518, y=61, z=-1443} class_2338{x=519, y=60, z=-1443}
+[03:09:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=518, y=61, z=-1443} class_2338{x=519, y=60, z=-1443}
+[03:10:19] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=501, y=62, z=-1468} class_2338{x=502, y=62, z=-1468}
+[03:10:19] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=501, y=62, z=-1468} class_2338{x=501, y=64, z=-1468}
