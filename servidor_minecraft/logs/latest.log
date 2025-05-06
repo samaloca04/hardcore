@@ -193,3 +193,8 @@
 [23:03:10] [Server thread/INFO]: Criss_17 joined the game
 [23:07:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=462, y=77, z=-1496} class_2338{x=463, y=75, z=-1495}
 [23:07:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=462, y=77, z=-1496} class_2338{x=463, y=75, z=-1495}
+[23:17:20] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=447, y=75, z=-1484} class_2338{x=464, y=75, z=-1497}
+[23:17:36] [Server thread/INFO]: Villager class_1646['Fletcher'/297, l='ServerLevel[world]', x=462.53, y=75.00, z=-1491.49] died, message: 'Fletcher was slain by Zombie'
+[23:17:54] [Server thread/INFO]: Villager class_1646['Fletcher'/137, l='ServerLevel[world]', x=462.49, y=75.00, z=-1492.68] died, message: 'Fletcher was slain by Zombie Villager'
+[23:18:01] [Server thread/INFO]: Villager class_1646['Fletcher'/139, l='ServerLevel[world]', x=462.49, y=75.00, z=-1493.94] died, message: 'Fletcher was slain by Zombie Villager'
+[23:18:11] [Server thread/INFO]: Villager class_1646['Fletcher'/141, l='ServerLevel[world]', x=462.84, y=75.00, z=-1495.51] died, message: 'Fletcher was slain by Zombie Villager'
