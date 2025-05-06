@@ -218,3 +218,13 @@
 [04:55:40] [Server thread/INFO]: [Criss_17: Removed every effect from Criss_17]
 [04:56:40] [Server thread/INFO]: Criss_17 was slain by Zombie
 [04:56:47] [Server thread/INFO]: [Criss_17: Set own game mode to Survival Mode]
+[04:57:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=464, y=75, z=-1491} class_2338{x=464, y=75, z=-1492}
+[04:58:04] [Server thread/INFO]: Villager class_1646['Fletcher'/6069, l='ServerLevel[world]', x=462.49, y=75.00, z=-1495.15] died, message: 'Fletcher was slain by Zombie'
+[04:58:34] [Server thread/INFO]: Villager class_1646['Fletcher'/6067, l='ServerLevel[world]', x=462.49, y=75.00, z=-1493.89] died, message: 'Fletcher was slain by Zombie Villager'
+[04:58:39] [Server thread/INFO]: Villager class_1646['Fletcher'/6065, l='ServerLevel[world]', x=462.49, y=75.00, z=-1492.68] died, message: 'Fletcher was slain by Zombie'
+[04:58:43] [Server thread/INFO]: Villager class_1646['Fletcher'/6063, l='ServerLevel[world]', x=462.49, y=75.00, z=-1491.49] died, message: 'Fletcher was slain by Zombie Villager'
+[04:59:12] [Server thread/INFO]: [Criss_17: Gave 10 [Golden Apple] to Criss_17]
+[05:04:27] [Server thread/INFO]: Villager class_1646['Fletcher'/7608, l='ServerLevel[world]', x=462.49, y=75.00, z=-1491.49] died, message: 'Fletcher was slain by Zombie Villager'
+[05:04:28] [Server thread/INFO]: Villager class_1646['Fletcher'/7541, l='ServerLevel[world]', x=462.49, y=75.00, z=-1493.89] died, message: 'Fletcher was slain by Zombie Villager'
+[05:04:34] [Server thread/INFO]: Villager class_1646['Fletcher'/7651, l='ServerLevel[world]', x=462.49, y=75.00, z=-1495.15] died, message: 'Fletcher was slain by Zombie Villager'
+[05:04:49] [Server thread/INFO]: Villager class_1646['Fletcher'/7787, l='ServerLevel[world]', x=462.49, y=75.00, z=-1492.68] died, message: 'Fletcher was slain by Zombie Villager'
