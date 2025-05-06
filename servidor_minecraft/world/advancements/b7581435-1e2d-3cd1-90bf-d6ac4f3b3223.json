@@ -279,6 +279,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2025-05-03 00:07:08 +0000",
+      "minecraft:pillager": "2025-05-06 04:29:58 +0000",
       "minecraft:skeleton": "2025-05-02 01:51:43 +0000",
       "minecraft:zombified_piglin": "2025-05-03 01:11:26 +0000",
       "minecraft:witch": "2025-05-04 04:51:30 +0000",
@@ -3346,6 +3347,24 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2025-05-04 05:40:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-05-06 04:30:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-05-06 04:39:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-05-06 04:39:56 +0000"
     },
     "done": true
   },
