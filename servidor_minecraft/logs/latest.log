@@ -218,3 +218,21 @@
 [23:40:26] [Server thread/INFO]: Villager class_1646['Fletcher'/6069, l='ServerLevel[world]', x=462.51, y=75.00, z=-1492.47] died, message: 'Fletcher was slain by Zombie Villager'
 [23:40:33] [Server thread/INFO]: Villager class_1646['Fletcher'/6023, l='ServerLevel[world]', x=462.51, y=75.00, z=-1491.49] died, message: 'Fletcher was slain by Zombie Villager'
 [23:41:34] [Server thread/INFO]: [Criss_17: Gave 20 [Golden Apple] to Criss_17]
+[23:43:31] [Server thread/INFO]: [Criss_17: Set own game mode to Spectator Mode]
+[23:43:41] [Server thread/INFO]: [Criss_17: Set own game mode to Survival Mode]
+[23:43:43] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=64, y=53, z=-224} class_2338{x=64, y=53, z=-225}
+[23:44:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=74, y=52, z=-239} class_2338{x=71, y=53, z=-240}
+[23:44:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=74, y=52, z=-239} class_2338{x=71, y=53, z=-240}
+[23:44:58] [Server thread/INFO]: [Criss_17: Set own game mode to Spectator Mode]
+[23:45:08] [Server thread/INFO]: [Criss_17: Set own game mode to Survival Mode]
+[23:45:36] [Server thread/INFO]: [Criss_17: Set own game mode to Spectator Mode]
+[23:45:43] [Server thread/INFO]: [Criss_17: Set own game mode to Survival Mode]
+[23:45:58] [Server thread/INFO]: Criss_17 has completed the challenge [Hot Tourist Destinations]
+[23:47:22] [Server thread/INFO]: Criss_17 was doomed to fall by Piglin
+[23:47:29] [Server thread/INFO]: [Criss_17: Set own game mode to Survival Mode]
+[23:47:45] [Server thread/INFO]: [Criss_17: Set own game mode to Creative Mode]
+[23:47:49] [Server thread/INFO]: [Criss_17: Teleported Criss_17 to 95.500000, 35.500000, -340.500000]
+[23:48:23] [Server thread/INFO]: [Criss_17: Set own game mode to Survival Mode]
+[23:48:35] [Server thread/INFO]: [Criss_17: Set own game mode to Spectator Mode]
+[23:48:45] [Server thread/INFO]: [Criss_17: Set own game mode to Survival Mode]
+[23:49:03] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=96, y=50, z=-352}

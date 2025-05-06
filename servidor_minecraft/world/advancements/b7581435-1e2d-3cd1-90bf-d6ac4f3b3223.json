@@ -2162,12 +2162,13 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-05-06 23:45:58 +0000",
       "minecraft:nether_wastes": "2025-05-03 00:59:28 +0000",
       "minecraft:soul_sand_valley": "2025-05-03 01:00:00 +0000",
       "minecraft:basalt_deltas": "2025-05-02 23:52:06 +0000",
       "minecraft:warped_forest": "2025-05-03 01:21:03 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
@@ -3378,6 +3379,12 @@
   "minecraft:story/cure_zombie_villager": {
     "criteria": {
       "cured_zombie": "2025-05-06 04:54:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-05-06 23:49:59 +0000"
     },
     "done": true
   },
