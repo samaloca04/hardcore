@@ -208,3 +208,13 @@
 [23:27:41] [Server thread/INFO]: Villager class_1646['Fletcher'/4857, l='ServerLevel[world]', x=462.57, y=75.00, z=-1495.52] died, message: 'Fletcher was slain by Criss_17'
 [23:31:38] [Server thread/INFO]: [Criss_17: Set own game mode to Spectator Mode]
 [23:31:40] [Server thread/INFO]: [Criss_17: Set own game mode to Creative Mode]
+[23:32:11] [Server thread/INFO]: Villager class_1646['Villager'/5938, l='ServerLevel[world]', x=452.87, y=77.00, z=-1493.54] died, message: 'Villager was slain by Criss_17'
+[23:32:28] [Server thread/INFO]: Villager class_1646['Villager'/5934, l='ServerLevel[world]', x=462.55, y=75.00, z=-1492.30] died, message: 'Villager was slain by Criss_17'
+[23:32:38] [Server thread/INFO]: Villager class_1646['Villager'/5642, l='ServerLevel[world]', x=461.27, y=75.00, z=-1491.60] died, message: 'Villager was slain by Criss_17'
+[23:39:08] [Server thread/INFO]: Villager class_1646['Librarian'/6178, l='ServerLevel[world]', x=462.51, y=75.00, z=-1495.50] died, message: 'Librarian was slain by Zombie'
+[23:39:17] [Server thread/INFO]: [Criss_17: Set own game mode to Survival Mode]
+[23:40:12] [Server thread/INFO]: Villager class_1646['Fletcher'/6148, l='ServerLevel[world]', x=462.51, y=75.00, z=-1494.50] died, message: 'Fletcher was slain by Zombie Villager'
+[23:40:19] [Server thread/INFO]: Villager class_1646['Fletcher'/6100, l='ServerLevel[world]', x=462.51, y=75.00, z=-1493.50] died, message: 'Fletcher was slain by Zombie Villager'
+[23:40:26] [Server thread/INFO]: Villager class_1646['Fletcher'/6069, l='ServerLevel[world]', x=462.51, y=75.00, z=-1492.47] died, message: 'Fletcher was slain by Zombie Villager'
+[23:40:33] [Server thread/INFO]: Villager class_1646['Fletcher'/6023, l='ServerLevel[world]', x=462.51, y=75.00, z=-1491.49] died, message: 'Fletcher was slain by Zombie Villager'
+[23:41:34] [Server thread/INFO]: [Criss_17: Gave 20 [Golden Apple] to Criss_17]
