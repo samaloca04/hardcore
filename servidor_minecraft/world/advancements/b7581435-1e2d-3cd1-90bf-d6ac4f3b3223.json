@@ -298,6 +298,7 @@
       "minecraft:piglin_brute": "2025-05-03 01:09:01 +0000",
       "minecraft:zombie": "2025-05-02 01:33:20 +0000",
       "minecraft:creeper": "2025-05-02 01:58:57 +0000",
+      "minecraft:drowned": "2025-05-06 04:45:49 +0000",
       "minecraft:zombie_villager": "2025-05-02 01:50:06 +0000"
     },
     "done": false
@@ -3359,6 +3360,12 @@
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_brown_mushroom": "2025-05-06 04:39:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-05-06 04:43:55 +0000"
     },
     "done": true
   },
