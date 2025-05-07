@@ -14,6 +14,7 @@
       "minecraft:river": "2025-05-02 01:40:41 +0000",
       "minecraft:stony_shore": "2025-05-02 03:12:56 +0000",
       "minecraft:dripstone_caves": "2025-05-02 02:01:06 +0000",
+      "minecraft:old_growth_birch_forest": "2025-05-07 02:20:17 +0000",
       "minecraft:ocean": "2025-05-02 03:24:00 +0000",
       "minecraft:cherry_grove": "2025-05-02 01:36:07 +0000",
       "minecraft:grove": "2025-05-02 03:25:22 +0000",
@@ -286,6 +287,7 @@
       "minecraft:wither_skeleton": "2025-05-03 00:04:46 +0000",
       "minecraft:husk": "2025-05-02 02:35:23 +0000",
       "minecraft:bogged": "2025-05-02 02:28:15 +0000",
+      "minecraft:ghast": "2025-05-07 02:12:38 +0000",
       "minecraft:ender_dragon": "2025-05-03 02:34:45 +0000",
       "minecraft:hoglin": "2025-05-03 01:08:59 +0000",
       "minecraft:shulker": "2025-05-03 02:54:50 +0000",
@@ -3388,6 +3390,42 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2025-05-07 02:15:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2025-05-07 02:15:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2025-05-07 02:15:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-05-07 02:15:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2025-05-07 02:15:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-05-07 02:15:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2025-05-06 23:13:18 +0000"
@@ -3400,9 +3438,69 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2025-05-07 02:29:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-05-06 23:13:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2025-05-07 02:12:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-05-07 02:15:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_banner": {
+    "criteria": {
+      "has_yellow_wool": "2025-05-07 02:18:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-05-07 02:15:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed": {
+    "criteria": {
+      "has_yellow_wool": "2025-05-07 02:18:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-05-07 02:15:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet": {
+    "criteria": {
+      "has_yellow_wool": "2025-05-07 02:18:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2025-05-07 02:15:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-05-07 02:15:33 +0000"
     },
     "done": true
   },
@@ -3415,6 +3513,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
     "criteria": {
       "has_mossy_cobblestone": "2025-05-06 23:13:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2025-05-07 02:29:39 +0000"
     },
     "done": true
   },
