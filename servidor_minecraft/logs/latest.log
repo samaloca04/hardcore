@@ -56,3 +56,5 @@
 [01:35:11] [Server thread/INFO]: Villager class_1646['Librarian'/34191, l='ServerLevel[world]', x=462.51, y=75.00, z=-1494.50] died, message: 'Librarian was slain by Zombie Villager'
 [01:35:32] [Server thread/INFO]: Villager class_1646['Librarian'/34315, l='ServerLevel[world]', x=462.51, y=75.00, z=-1493.26] died, message: 'Librarian was slain by Zombie Villager'
 [01:42:37] [Server thread/INFO]: [Criss_17: Set own game mode to Survival Mode]
+[01:59:52] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=126, y=68, z=-315} class_2338{x=126, y=68, z=-314}
+[01:59:53] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=126, y=70, z=-316} class_2338{x=126, y=70, z=-315}
