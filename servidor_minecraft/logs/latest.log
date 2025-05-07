@@ -1,100 +1,197 @@
-[00:00:01] [Server thread/INFO]: Villager class_1646['Fletcher'/11764, l='ServerLevel[world]', x=462.51, y=75.00, z=-1492.47] died, message: 'Fletcher was slain by Zombie Villager'
-[00:00:07] [Server thread/INFO]: Villager class_1646['Fletcher'/11760, l='ServerLevel[world]', x=462.51, y=75.00, z=-1491.49] died, message: 'Fletcher was slain by Zombie Villager'
-[00:12:06] [Server thread/INFO]: Villager class_1646['Librarian'/14355, l='ServerLevel[world]', x=462.51, y=75.00, z=-1495.50] died, message: 'Librarian was slain by Zombie'
-[00:12:28] [Server thread/INFO]: Villager class_1646['Fletcher'/14209, l='ServerLevel[world]', x=462.51, y=75.00, z=-1494.50] died, message: 'Fletcher was slain by Zombie Villager'
-[00:12:35] [Server thread/INFO]: Villager class_1646['Fletcher'/13902, l='ServerLevel[world]', x=462.51, y=75.00, z=-1493.50] died, message: 'Fletcher was slain by Zombie Villager'
-[00:12:42] [Server thread/INFO]: Villager class_1646['Fletcher'/14393, l='ServerLevel[world]', x=462.51, y=75.00, z=-1492.47] died, message: 'Fletcher was slain by Zombie Villager'
-[00:12:49] [Server thread/INFO]: Villager class_1646['Fletcher'/14004, l='ServerLevel[world]', x=462.51, y=75.00, z=-1491.49] died, message: 'Fletcher was slain by Zombie Villager'
-[00:17:52] [Server thread/INFO]: Villager class_1646['Fletcher'/16525, l='ServerLevel[world]', x=462.51, y=75.00, z=-1494.50] died, message: 'Fletcher was slain by Zombie Villager'
-[00:22:32] [Server thread/INFO]: Villager class_1646['Fletcher'/16669, l='ServerLevel[world]', x=462.51, y=75.00, z=-1493.50] died, message: 'Fletcher was slain by Zombie Villager'
-[00:22:44] [Server thread/INFO]: Villager class_1646['Fletcher'/16699, l='ServerLevel[world]', x=462.51, y=75.00, z=-1492.47] died, message: 'Fletcher was slain by Zombie Villager'
-[00:22:51] [Server thread/INFO]: Villager class_1646['Fletcher'/16638, l='ServerLevel[world]', x=462.51, y=75.00, z=-1491.49] died, message: 'Fletcher was slain by Zombie Villager'
-[00:25:10] [Server thread/INFO]: [Criss_17: Gave 5000 experience points to Criss_17]
-[00:25:12] [Server thread/INFO]: [Criss_17: Gave 5000 experience points to Criss_17]
-[00:25:13] [Server thread/INFO]: [Criss_17: Gave 5000 experience points to Criss_17]
-[00:30:57] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=430, y=72, z=-1411} class_2338{x=427, y=77, z=-1409}
-[00:31:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=460, y=74, z=-1491} class_2338{x=460, y=75, z=-1490}
-[00:38:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=427, y=76, z=-1419} class_2338{x=460, y=75, z=-1494}
-[00:39:34] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=427, y=78, z=-1418} class_2338{x=461, y=75, z=-1495}
-[00:44:21] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=463, y=73, z=-1473} class_2338{x=460, y=74, z=-1473}
-[00:51:05] [Server thread/INFO]: [Criss_17: Set own game mode to Creative Mode]
-[00:52:11] [Server thread/INFO]: [Criss_17: Set own game mode to Survival Mode]
-[01:03:12] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=451, y=76, z=-1493} class_2338{x=452, y=76, z=-1493}
-[01:06:27] [Server thread/INFO]: Villager class_1646['Villager'/10729, l='ServerLevel[world]', x=464.40, y=75.00, z=-1493.49] died, message: 'Villager suffocated in a wall'
-[01:06:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=463, y=75, z=-1494} class_2338{x=460, y=75, z=-1494}
-[01:11:14] [Server thread/INFO]: [Criss_17: Set own game mode to Creative Mode]
-[01:11:21] [Server thread/INFO]: [Criss_17: Set own game mode to Survival Mode]
-[01:15:18] [Server thread/INFO]: [Criss_17: Set own game mode to Adventure Mode]
-[01:15:20] [Server thread/INFO]: [Criss_17: Set own game mode to Spectator Mode]
-[01:15:25] [Server thread/INFO]: [Criss_17: Set own game mode to Creative Mode]
-[01:15:55] [Server thread/INFO]: [Criss_17: Set own game mode to Survival Mode]
-[01:17:41] [Server thread/INFO]: Villager class_1646['Librarian'/29670, l='ServerLevel[world]', x=462.51, y=75.00, z=-1495.50] died, message: 'Librarian was slain by Zombie'
-[01:17:48] [Server thread/INFO]: Villager class_1646['Librarian'/29668, l='ServerLevel[world]', x=462.51, y=75.00, z=-1494.50] died, message: 'Librarian was slain by Zombie Villager'
-[01:17:52] [Server thread/INFO]: Villager class_1646['Librarian'/29672, l='ServerLevel[world]', x=462.51, y=75.00, z=-1493.26] died, message: 'Librarian was slain by Zombie Villager'
-[01:17:59] [Server thread/INFO]: Villager class_1646['Librarian'/29666, l='ServerLevel[world]', x=462.51, y=75.00, z=-1492.03] died, message: 'Librarian was slain by Zombie Villager'
-[01:18:02] [Server thread/INFO]: [Criss_17: Gave 20 [Golden Apple] to Criss_17]
-[01:18:06] [Server thread/INFO]: [Criss_17: Gave 20 [Golden Apple] to Criss_17]
-[01:26:09] [Server thread/INFO]: Villager class_1646['Librarian'/31854, l='ServerLevel[world]', x=462.51, y=75.00, z=-1495.50] died, message: 'Librarian was slain by Zombie'
-[01:27:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=462, y=76, z=-1499} class_2338{x=463, y=76, z=-1496}
-[01:27:41] [Server thread/INFO]: Villager class_1646['Librarian'/31897, l='ServerLevel[world]', x=462.51, y=75.00, z=-1494.50] died, message: 'Librarian was slain by Zombie Villager'
-[01:27:48] [Server thread/INFO]: Villager class_1646['Librarian'/31769, l='ServerLevel[world]', x=462.51, y=75.00, z=-1493.26] died, message: 'Librarian was slain by Zombie Villager'
-[01:27:55] [Server thread/INFO]: Villager class_1646['Librarian'/31841, l='ServerLevel[world]', x=462.51, y=75.00, z=-1492.03] died, message: 'Librarian was slain by Zombie Villager'
-[01:33:04] [Server thread/INFO]: [Criss_17: Set own game mode to Creative Mode]
-[01:33:14] [Server thread/INFO]: Villager class_1646['Farmer'/29657, l='ServerLevel[world]', x=469.07, y=80.94, z=-1455.50] died, message: 'Farmer was slain by Criss_17'
-[01:33:17] [Server thread/INFO]: Villager class_1646['Farmer'/29654, l='ServerLevel[world]', x=467.11, y=80.94, z=-1457.69] died, message: 'Farmer was slain by Criss_17'
-[01:33:20] [Server thread/INFO]: Villager class_1646['Farmer'/29656, l='ServerLevel[world]', x=468.27, y=80.94, z=-1455.98] died, message: 'Farmer was slain by Criss_17'
-[01:33:50] [Server thread/INFO]: Villager class_1646['Farmer'/29648, l='ServerLevel[world]', x=476.70, y=80.94, z=-1450.74] died, message: 'Farmer was slain by Criss_17'
-[01:33:54] [Server thread/INFO]: Villager class_1646['Farmer'/29650, l='ServerLevel[world]', x=479.44, y=81.56, z=-1459.27] died, message: 'Farmer was slain by Criss_17'
-[01:33:56] [Server thread/INFO]: Villager class_1646['Farmer'/29649, l='ServerLevel[world]', x=483.49, y=80.94, z=-1456.27] died, message: 'Farmer was slain by Criss_17'
-[01:34:07] [Server thread/INFO]: Villager class_1646['Librarian'/33945, l='ServerLevel[world]', x=462.51, y=75.00, z=-1495.50] died, message: 'Librarian was slain by Zombie Villager'
-[01:34:31] [Server thread/INFO]: Villager class_1646['Farmer'/29687, l='ServerLevel[world]', x=467.13, y=80.94, z=-1439.49] died, message: 'Farmer was slain by Criss_17'
-[01:34:33] [Server thread/INFO]: Villager class_1646['Farmer'/29688, l='ServerLevel[world]', x=465.51, y=80.94, z=-1441.35] died, message: 'Farmer was slain by Criss_17'
-[01:34:55] [Server thread/INFO]: Villager class_1646['Villager'/29662, l='ServerLevel[world]', x=486.24, y=81.56, z=-1441.36] died, message: 'Villager was slain by Criss_17'
-[01:34:58] [Server thread/INFO]: Villager class_1646['Farmer'/29663, l='ServerLevel[world]', x=480.05, y=80.94, z=-1443.98] died, message: 'Farmer was slain by Criss_17'
-[01:35:01] [Server thread/INFO]: Villager class_1646['Farmer'/29661, l='ServerLevel[world]', x=475.83, y=80.94, z=-1444.89] died, message: 'Farmer was slain by Criss_17'
-[01:35:05] [Server thread/INFO]: Villager class_1646['Librarian'/34167, l='ServerLevel[world]', x=462.51, y=75.00, z=-1492.03] died, message: 'Librarian was slain by Zombie Villager'
-[01:35:11] [Server thread/INFO]: Villager class_1646['Librarian'/34191, l='ServerLevel[world]', x=462.51, y=75.00, z=-1494.50] died, message: 'Librarian was slain by Zombie Villager'
-[01:35:32] [Server thread/INFO]: Villager class_1646['Librarian'/34315, l='ServerLevel[world]', x=462.51, y=75.00, z=-1493.26] died, message: 'Librarian was slain by Zombie Villager'
-[01:42:37] [Server thread/INFO]: [Criss_17: Set own game mode to Survival Mode]
-[01:59:52] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=126, y=68, z=-315} class_2338{x=126, y=68, z=-314}
-[01:59:53] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=126, y=70, z=-316} class_2338{x=126, y=70, z=-315}
-[02:07:35] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=228, y=74, z=-334} class_2338{x=218, y=84, z=-349}
-[02:07:35] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=228, y=74, z=-334} class_2338{x=218, y=84, z=-349}
-[02:09:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=210, y=73, z=-361} class_2338{x=206, y=75, z=-369}
-[02:12:38] [Server thread/INFO]: Criss_17 has completed the challenge [Return to Sender]
-[02:16:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=67, y=49, z=-226} class_2338{x=68, y=49, z=-226}
-[02:16:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=67, y=49, z=-226} class_2338{x=68, y=49, z=-226}
-[02:16:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=61, y=53, z=-228} class_2338{x=62, y=52, z=-228}
-[02:16:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=61, y=53, z=-228} class_2338{x=62, y=52, z=-228}
-[02:16:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=61, y=53, z=-228} class_2338{x=62, y=52, z=-228}
-[02:16:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=61, y=53, z=-228} class_2338{x=62, y=52, z=-228}
-[02:16:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=61, y=53, z=-228} class_2338{x=62, y=52, z=-228}
-[02:16:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=61, y=53, z=-228} class_2338{x=62, y=52, z=-228}
-[02:16:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=61, y=53, z=-228} class_2338{x=62, y=52, z=-228}
-[02:16:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=61, y=53, z=-228} class_2338{x=62, y=52, z=-228}
-[02:16:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=61, y=53, z=-228} class_2338{x=62, y=52, z=-228}
-[02:16:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=61, y=53, z=-228} class_2338{x=62, y=52, z=-228}
-[02:16:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=63, y=53, z=-232} class_2338{x=62, y=53, z=-231}
-[02:16:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=63, y=53, z=-232} class_2338{x=62, y=53, z=-231}
-[02:16:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=63, y=53, z=-232} class_2338{x=62, y=53, z=-231}
-[02:16:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=63, y=53, z=-232} class_2338{x=62, y=53, z=-231}
-[02:16:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=63, y=53, z=-232} class_2338{x=62, y=53, z=-231}
-[02:16:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=63, y=53, z=-232} class_2338{x=62, y=53, z=-231}
-[02:16:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=63, y=53, z=-232} class_2338{x=62, y=53, z=-231}
-[02:16:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=63, y=53, z=-232} class_2338{x=62, y=53, z=-231}
-[02:16:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=63, y=53, z=-232} class_2338{x=62, y=53, z=-231}
-[02:16:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=63, y=53, z=-232} class_2338{x=62, y=53, z=-231}
-[02:16:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=63, y=53, z=-232} class_2338{x=62, y=53, z=-231}
-[02:16:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=63, y=53, z=-232} class_2338{x=62, y=53, z=-231}
-[02:16:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=63, y=53, z=-232} class_2338{x=62, y=53, z=-231}
-[02:16:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=63, y=53, z=-232} class_2338{x=62, y=53, z=-231}
-[02:16:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=63, y=53, z=-232} class_2338{x=62, y=53, z=-231}
-[02:19:48] [Server thread/WARN]: Criss_17 moved wrongly!
-[02:25:50] [Server thread/INFO]: [Criss_17: Set own game mode to Creative Mode]
-[02:26:03] [Server thread/INFO]: [Criss_17: Set own game mode to Survival Mode]
-[02:37:59] [Server thread/INFO]: [Criss_17: Set own game mode to Spectator Mode]
-[02:38:30] [Server thread/INFO]: [Criss_17: Set own game mode to Survival Mode]
-[02:39:09] [Server thread/INFO]: Criss_17 was slain by Husk
-[02:39:14] [Server thread/INFO]: [Criss_17: Set own game mode to Creative Mode]
-[02:39:22] [Server thread/INFO]: [Criss_17: Teleported Criss_17 to 358.500000, -1.500000, 105.500000]
-[02:41:30] [Server thread/INFO]: [Criss_17: Set own game mode to Survival Mode]
+[02:55:34] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.14
+[02:55:34] [ForkJoinPool-1-worker-1/WARN]: The mod "tcdcommons" contains invalid entries in its mod json:
+- Unsupported root entry "" at line 27 column 4
+- Unsupported root entry "" at line 27 column 198
+- Unsupported root entry "" at line 29 column 4
+- Unsupported root entry "" at line 29 column 24
+[02:55:34] [ForkJoinPool-1-worker-4/WARN]: The mod "betterstats" contains invalid entries in its mod json:
+- Unsupported root entry "" at line 26 column 4
+- Unsupported root entry "" at line 26 column 124
+- Unsupported root entry "" at line 28 column 4
+- Unsupported root entry "" at line 28 column 24
+[02:55:34] [main/INFO]: Loading 93 mods:
+	- alternate-current 1.9.0
+	- betterfpsdist 1.21-5.1
+	- betterstats 3.13.9+fabric-1.21
+	- chunky 1.4.23
+	- clumps 19.0.0.1
+	- connectivity 1.21-7.1
+	- cupboard 1.21-2.9
+	- entityculling 1.7.4
+	- fabric-api 0.115.3+1.21.1
+	   |-- fabric-api-base 0.4.42+6573ed8c19
+	   |-- fabric-api-lookup-api-v1 1.6.70+b559734419
+	   |-- fabric-biome-api-v1 13.0.31+d527f9fd19
+	   |-- fabric-block-api-v1 1.0.22+0af3f5a719
+	   |-- fabric-block-view-api-v2 1.0.11+ebb2264e19
+	   |-- fabric-blockrenderlayer-v1 1.1.52+0af3f5a719
+	   |-- fabric-client-tags-api-v1 1.1.15+6573ed8c19
+	   |-- fabric-command-api-v1 1.2.49+f71b366f19
+	   |-- fabric-command-api-v2 2.2.28+6ced4dd919
+	   |-- fabric-commands-v0 0.2.66+df3654b319
+	   |-- fabric-content-registries-v0 8.0.18+b559734419
+	   |-- fabric-convention-tags-v1 2.1.3+7f945d5b19
+	   |-- fabric-convention-tags-v2 2.10.0+9465b64419
+	   |-- fabric-crash-report-info-v1 0.2.29+0af3f5a719
+	   |-- fabric-data-attachment-api-v1 1.4.1+9ed317f519
+	   |-- fabric-data-generation-api-v1 20.2.27+16c4ae2519
+	   |-- fabric-dimensions-v1 4.0.0+6fc22b9919
+	   |-- fabric-entity-events-v1 1.7.0+2122d82819
+	   |-- fabric-events-interaction-v0 0.7.13+ba9dae0619
+	   |-- fabric-game-rule-api-v1 1.0.53+6ced4dd919
+	   |-- fabric-item-api-v1 11.1.1+d5debaed19
+	   |-- fabric-item-group-api-v1 4.1.7+def88e3a19
+	   |-- fabric-key-binding-api-v1 1.0.47+0af3f5a719
+	   |-- fabric-keybindings-v0 0.2.45+df3654b319
+	   |-- fabric-lifecycle-events-v1 2.5.0+01d9a51c19
+	   |-- fabric-loot-api-v2 3.0.15+3f89f5a519
+	   |-- fabric-loot-api-v3 1.0.3+3f89f5a519
+	   |-- fabric-message-api-v1 6.0.13+6573ed8c19
+	   |-- fabric-model-loading-api-v1 2.0.0+fe474d6b19
+	   |-- fabric-networking-api-v1 4.3.0+c7469b2119
+	   |-- fabric-object-builder-api-v1 15.2.1+40875a9319
+	   |-- fabric-particles-v1 4.0.2+6573ed8c19
+	   |-- fabric-recipe-api-v1 5.0.14+248df81c19
+	   |-- fabric-registry-sync-v0 5.2.0+34f5d91419
+	   |-- fabric-renderer-api-v1 3.4.0+c705a49c19
+	   |-- fabric-renderer-indigo 1.7.0+c705a49c19
+	   |-- fabric-renderer-registries-v1 3.2.68+df3654b319
+	   |-- fabric-rendering-data-attachment-v1 0.3.49+73761d2e19
+	   |-- fabric-rendering-fluids-v1 3.1.6+1daea21519
+	   |-- fabric-rendering-v0 1.1.71+df3654b319
+	   |-- fabric-rendering-v1 5.0.5+df16efd019
+	   |-- fabric-resource-conditions-api-v1 4.3.0+8dc279b119
+	   |-- fabric-resource-loader-v0 1.3.1+5b5275af19
+	   |-- fabric-screen-api-v1 2.0.25+8b68f1c719
+	   |-- fabric-screen-handler-api-v1 1.3.88+b559734419
+	   |-- fabric-sound-api-v1 1.0.23+6573ed8c19
+	   |-- fabric-transfer-api-v1 5.4.2+c24bd99419
+	   \-- fabric-transitive-access-wideners-v1 6.2.0+45b9699719
+	- fabric-language-kotlin 1.13.2+kotlin.2.1.20
+	   |-- org_jetbrains_kotlin_kotlin-reflect 2.1.20
+	   |-- org_jetbrains_kotlin_kotlin-stdlib 2.1.20
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk7 2.1.20
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk8 2.1.20
+	   |-- org_jetbrains_kotlinx_atomicfu-jvm 0.27.0
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm 1.10.1
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-jdk8 1.10.1
+	   |-- org_jetbrains_kotlinx_kotlinx-datetime-jvm 0.6.2
+	   |-- org_jetbrains_kotlinx_kotlinx-io-bytestring-jvm 0.7.0
+	   |-- org_jetbrains_kotlinx_kotlinx-io-core-jvm 0.7.0
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm 1.8.0
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-core-jvm 1.8.0
+	   \-- org_jetbrains_kotlinx_kotlinx-serialization-json-jvm 1.8.0
+	- fabricloader 0.16.14
+	   \-- mixinextras 0.4.1
+	- ferritecore 7.0.2-hotfix
+	- fzzy_config 0.6.8+1.21
+	   |-- blue_endless_jankson 1.2.3
+	   |-- fabric-permissions-api-v0 0.3.1
+	   \-- net_peanuuutz_tomlkt_tomlkt-jvm 0.3.7
+	- java 21
+	- jei 19.21.0.247
+	- krypton 0.2.8
+	   \-- com_velocitypowered_velocity-native 3.3.0-SNAPSHOT
+	- lithium 0.15.0+mc1.21.1
+	- minecraft 1.21.1
+	- modernfix 5.21.0+mc1.21.1
+	- owo 0.12.15.4+1.21
+	   |-- io_wispforest_endec 0.1.5.1
+	   |-- io_wispforest_endec_gson 0.1.3.1
+	   |-- io_wispforest_endec_jankson 0.1.3.1
+	   \-- io_wispforest_endec_netty 0.1.2
+	- raknetify 0.1.0+alpha.5.164
+	- skinrestorer 2.3.0+1.21-fabric
+	   \-- org_mineskin_java-client 3.0.1-SNAPSHOT
+	- tcdcommons 3.12.7+fabric-1.21
+	- xaerominimap 25.2.0
+	- xaeroworldmap 1.39.4
+	- yet_another_config_lib_v3 3.6.6+1.21.1-fabric
+	   |-- com_twelvemonkeys_common_common-image 3.12.0
+	   |-- com_twelvemonkeys_common_common-io 3.12.0
+	   |-- com_twelvemonkeys_common_common-lang 3.12.0
+	   |-- com_twelvemonkeys_imageio_imageio-core 3.12.0
+	   |-- com_twelvemonkeys_imageio_imageio-metadata 3.12.0
+	   |-- com_twelvemonkeys_imageio_imageio-webp 3.12.0
+	   |-- org_quiltmc_parsers_gson 0.2.1
+	   \-- org_quiltmc_parsers_json 0.2.1
+[02:55:34] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/hardcore/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[02:55:34] [main/INFO]: Compatibility level set to JAVA_16
+[02:55:34] [main/INFO]: Compatibility level set to JAVA_21
+[02:55:35] [main/WARN]: Mod 'ferritecore' attempted to override option 'mixin.alloc.blockstate', which doesn't exist, ignoring
+[02:55:35] [main/INFO]: Option 'mixin.entity.collisions.fluid' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.entity.collisions.fluid=false'.
+[02:55:35] [main/INFO]: Option 'mixin.experimental.entity.block_caching.block_support' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.block_support=false'.
+[02:55:35] [main/INFO]: Option 'mixin.experimental.entity.block_caching.fluid_pushing' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.fluid_pushing=false'.
+[02:55:35] [main/INFO]: Option 'mixin.experimental.entity.block_caching.block_touching' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.block_touching=false'.
+[02:55:35] [main/INFO]: Option 'mixin.experimental.entity.block_caching.suffocation' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.suffocation=false'.
+[02:55:35] [main/INFO]: Option 'mixin.experimental.entity.block_caching' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching=false'.
+[02:55:35] [main/INFO]: Loaded configuration file for Lithium: 149 options available, 0 override(s) found
+[02:55:35] [main/INFO]: Loaded configuration file for ModernFix 5.21.0+mc1.21.1: 58 options available, 0 override(s) found
+[02:55:35] [main/INFO]: Applying Nashorn fix
+[02:55:36] [main/WARN]: Error loading class: net/minecraft/class_287 (java.lang.ClassNotFoundException: net/minecraft/class_287)
+[02:55:36] [main/WARN]: @Mixin target net.minecraft.class_287 was not found owo.mixins.json:BufferBuilderAccessor from mod owo
+[02:55:36] [main/WARN]: Error loading class: net/minecraft/class_437 (java.lang.ClassNotFoundException: net/minecraft/class_437)
+[02:55:36] [main/WARN]: @Mixin target net.minecraft.class_437 was not found owo.mixins.json:ScreenAccessor from mod owo
+[02:55:36] [main/WARN]: Error loading class: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage (java.lang.ClassNotFoundException: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage)
+[02:55:36] [main/WARN]: Error loading class: net/minecraft/class_2539$class_4532 (java.lang.ClassNotFoundException: net/minecraft/class_2539$class_4532)
+[02:55:36] [main/WARN]: @Mixin target net/minecraft/class_2539$class_4532 was not found raknetify-fabric.mixins.json:access.INetworkStateInternalPacketHandler from mod raknetify
+[02:55:36] [main/WARN]: Error loading class: org/quiltmc/qsl/networking/impl/server/ServerLoginNetworkAddon (java.lang.ClassNotFoundException: org/quiltmc/qsl/networking/impl/server/ServerLoginNetworkAddon)
+[02:55:36] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[02:55:40] [main/WARN]: Method overwrite conflict for method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix, previously written by net.caffeinemc.mods.lithium.mixin.world.temperature_cache.BiomeMixin. Skipping method.
+[02:55:44] [main/INFO]: Vanilla bootstrap took 6726 milliseconds
+[02:55:44] [main/INFO]: betterfpsdist mod initialized
+[02:55:44] [main/INFO]: Connectivity initialized
+[02:55:44] [main/INFO]: Loaded config for: cupboard.json
+[02:55:45] [main/INFO]: Compression will use libdeflate (Linux x86_64), encryption will use OpenSSL 1.1.x (Linux x86_64)
+[02:55:45] [main/INFO]: Blodhgarm: Did you know it took four switcheroos to implement MatrixStackTransformer in the correct package?
+[02:55:45] [main/WARN]: @Redirect conflict. Skipping connectivity.mixins.json:ConnectionMixin from mod connectivity->@Redirect::onWait(Lio/netty/channel/ChannelFuture;)Lio/netty/channel/ChannelFuture; with priority 1000, already redirected by raknetify-fabric.mixins.json:common.MixinClientConnection from mod raknetify->@Redirect::noDisconnectWait(Lio/netty/channel/ChannelFuture;)Lio/netty/channel/ChannelFuture; with priority 1010
+[02:55:45] [main/INFO]: [STDOUT]: Raknetify: Using leak detector level SIMPLE
+[02:55:46] [main/INFO]: Initializing 'Better Statistics Screen' as 'BetterStatsServer'.
+[02:55:46] [main/INFO]: Krypton is now accelerating your Minecraft server's networking stack 🚀
+[02:55:46] [main/INFO]: Initializing 'TCD Commons API' 3.12.7+fabric-1.21 as 'TCDCommonsServer'.
+[02:55:46] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[02:55:46] [main/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
+[02:55:46] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:55:48] [main/INFO]: Loaded 1290 recipes
+[02:55:49] [main/INFO]: Loaded 1399 advancements
+[02:55:49] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 2.045 ms
+[02:55:49] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[02:55:49] [Server thread/INFO]: Loading properties
+[02:55:49] [Server thread/INFO]: Default game type: SURVIVAL
+[02:55:49] [Server thread/INFO]: Generating keypair
+[02:55:49] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:55:49] [Server thread/INFO]: [STDOUT]: Starting raknetify server on /172.17.0.1
+[02:55:49] [Server thread/INFO]: Using epoll channel type
+[02:55:49] [Server thread/INFO]: [STDOUT]: Starting raknetify server on /fe80:0:0:0:6245:bdff:fe83:cfff%eth0
+[02:55:49] [Server thread/INFO]: Using epoll channel type
+[02:55:49] [Server thread/INFO]: [STDOUT]: Starting raknetify server on /10.0.0.237
+[02:55:49] [Server thread/INFO]: Using epoll channel type
+[02:55:49] [Server thread/INFO]: [STDOUT]: Starting raknetify server on /0:0:0:0:0:0:0:1%lo
+[02:55:49] [Server thread/INFO]: Using epoll channel type
+[02:55:49] [Server thread/INFO]: [STDOUT]: Starting raknetify server on /127.0.0.1
+[02:55:49] [Server thread/INFO]: Using epoll channel type
+[02:55:49] [Server thread/INFO]: Using epoll channel type
+[02:55:49] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:55:49] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:55:49] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:55:49] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:55:49] [Server thread/INFO]: Preparing level "world"
+[02:55:50] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:55:50] [Server thread/WARN]: Method overwrite conflict for removeIf in modernfix-common.mixins.json:bugfix.paper_chunk_patches.SortedArraySetMixin from mod modernfix, previously written by net.caffeinemc.mods.lithium.mixin.collections.chunk_tickets.SortedArraySetMixin. Skipping method.
+[02:55:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:55:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:55:51] [Server thread/INFO]: Time elapsed: 1052 ms
+[02:55:51] [Server thread/INFO]: Done (1.629s)! For help, type "help"
+[02:55:51] [Server thread/WARN]: Dedicated server took 18.563 seconds to load
+[02:55:51] [Server thread/INFO]: Loaded config for: connectivity.json
+[02:55:51] [Server thread/INFO]: Loaded config for: betterfpsdist.json
+[02:55:51] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[02:55:51] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
+[02:55:57] [Netty Epoll Server IO #2/WARN]: @Redirect conflict. Skipping raknetify-fabric.mixins.json:server.MixinServerLoginNetworkHandler from mod raknetify->@Redirect::stopCompressionIfStreamingCompressionExists(Lnet/minecraft/server/MinecraftServer;)I with priority 900, already redirected by fabric-networking-api-v1.mixins.json:ServerLoginNetworkHandlerMixin from mod fabric-networking-api-v1->@Redirect::removeLateCompressionPacketSending(Lnet/minecraft/server/MinecraftServer;)I with priority 1000
+[02:55:59] [Server thread/INFO]: [STDOUT]: Lithium Cached BlockState Flags are disabled!
+[02:55:59] [Server thread/INFO]: Criss_17[/127.141.37.167:37249] logged in with entity id 9 at (314.04906597545147, -27.75081292125532, 129.12140324021541)
+[02:55:59] [Server thread/INFO]: Criss_17 joined the game
+[02:58:08] [Server thread/INFO]: Criss_17 has reached the goal [Revaulting]
+[02:58:25] [Server thread/INFO]: [Criss_17: Set own game mode to Creative Mode]
+[03:05:19] [Server thread/INFO]: [Criss_17: Set own game mode to Spectator Mode]
+[03:05:26] [Server thread/INFO]: [Criss_17: Set own game mode to Creative Mode]
