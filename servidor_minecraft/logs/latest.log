@@ -34,3 +34,11 @@
 [01:17:59] [Server thread/INFO]: Villager class_1646['Librarian'/29666, l='ServerLevel[world]', x=462.51, y=75.00, z=-1492.03] died, message: 'Librarian was slain by Zombie Villager'
 [01:18:02] [Server thread/INFO]: [Criss_17: Gave 20 [Golden Apple] to Criss_17]
 [01:18:06] [Server thread/INFO]: [Criss_17: Gave 20 [Golden Apple] to Criss_17]
+[01:26:09] [Server thread/INFO]: Villager class_1646['Librarian'/31854, l='ServerLevel[world]', x=462.51, y=75.00, z=-1495.50] died, message: 'Librarian was slain by Zombie'
+[01:27:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=462, y=76, z=-1499} class_2338{x=463, y=76, z=-1496}
+[01:27:41] [Server thread/INFO]: Villager class_1646['Librarian'/31897, l='ServerLevel[world]', x=462.51, y=75.00, z=-1494.50] died, message: 'Librarian was slain by Zombie Villager'
+[01:27:48] [Server thread/INFO]: Villager class_1646['Librarian'/31769, l='ServerLevel[world]', x=462.51, y=75.00, z=-1493.26] died, message: 'Librarian was slain by Zombie Villager'
+[01:27:55] [Server thread/INFO]: Villager class_1646['Librarian'/31841, l='ServerLevel[world]', x=462.51, y=75.00, z=-1492.03] died, message: 'Librarian was slain by Zombie Villager'
+[01:33:04] [Server thread/INFO]: [Criss_17: Set own game mode to Creative Mode]
+[01:33:14] [Server thread/INFO]: Villager class_1646['Farmer'/29657, l='ServerLevel[world]', x=469.07, y=80.94, z=-1455.50] died, message: 'Farmer was slain by Criss_17'
+[01:33:17] [Server thread/INFO]: Villager class_1646['Farmer'/29654, l='ServerLevel[world]', x=467.11, y=80.94, z=-1457.69] died, message: 'Farmer was slain by Criss_17'
