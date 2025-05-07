@@ -16,3 +16,6 @@
 [00:31:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=460, y=74, z=-1491} class_2338{x=460, y=75, z=-1490}
 [00:38:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=427, y=76, z=-1419} class_2338{x=460, y=75, z=-1494}
 [00:39:34] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=427, y=78, z=-1418} class_2338{x=461, y=75, z=-1495}
+[00:44:21] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=463, y=73, z=-1473} class_2338{x=460, y=74, z=-1473}
+[00:51:05] [Server thread/INFO]: [Criss_17: Set own game mode to Creative Mode]
+[00:52:11] [Server thread/INFO]: [Criss_17: Set own game mode to Survival Mode]
