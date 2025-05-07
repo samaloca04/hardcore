@@ -295,6 +295,7 @@
       "minecraft:piglin": "2025-05-03 01:05:51 +0000",
       "minecraft:breeze": "2025-05-02 02:43:22 +0000",
       "minecraft:enderman": "2025-05-02 02:00:23 +0000",
+      "minecraft:silverfish": "2025-05-07 02:41:46 +0000",
       "minecraft:magma_cube": "2025-05-02 23:56:05 +0000",
       "minecraft:spider": "2025-05-02 01:57:55 +0000",
       "minecraft:piglin_brute": "2025-05-03 01:09:01 +0000",
@@ -3486,6 +3487,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-05-07 02:34:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_carpet": {
     "criteria": {
       "has_yellow_wool": "2025-05-07 02:18:13 +0000"
@@ -3495,6 +3502,12 @@
   "minecraft:recipes/building_blocks/quartz_pillar": {
     "criteria": {
       "has_quartz_block": "2025-05-07 02:15:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-05-07 02:34:51 +0000"
     },
     "done": true
   },
