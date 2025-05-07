@@ -3553,5 +3553,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-05-07 03:01:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-05-07 03:09:43 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
