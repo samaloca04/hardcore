@@ -7,3 +7,10 @@
 [00:12:49] [Server thread/INFO]: Villager class_1646['Fletcher'/14004, l='ServerLevel[world]', x=462.51, y=75.00, z=-1491.49] died, message: 'Fletcher was slain by Zombie Villager'
 [00:17:52] [Server thread/INFO]: Villager class_1646['Fletcher'/16525, l='ServerLevel[world]', x=462.51, y=75.00, z=-1494.50] died, message: 'Fletcher was slain by Zombie Villager'
 [00:22:32] [Server thread/INFO]: Villager class_1646['Fletcher'/16669, l='ServerLevel[world]', x=462.51, y=75.00, z=-1493.50] died, message: 'Fletcher was slain by Zombie Villager'
+[00:22:44] [Server thread/INFO]: Villager class_1646['Fletcher'/16699, l='ServerLevel[world]', x=462.51, y=75.00, z=-1492.47] died, message: 'Fletcher was slain by Zombie Villager'
+[00:22:51] [Server thread/INFO]: Villager class_1646['Fletcher'/16638, l='ServerLevel[world]', x=462.51, y=75.00, z=-1491.49] died, message: 'Fletcher was slain by Zombie Villager'
+[00:25:10] [Server thread/INFO]: [Criss_17: Gave 5000 experience points to Criss_17]
+[00:25:12] [Server thread/INFO]: [Criss_17: Gave 5000 experience points to Criss_17]
+[00:25:13] [Server thread/INFO]: [Criss_17: Gave 5000 experience points to Criss_17]
+[00:30:57] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=430, y=72, z=-1411} class_2338{x=427, y=77, z=-1409}
+[00:31:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=460, y=74, z=-1491} class_2338{x=460, y=75, z=-1490}
